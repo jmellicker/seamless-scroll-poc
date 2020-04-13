@@ -88,6 +88,7 @@ export default {
   width: 80vw;
   overflow: hidden;
   font-size: 8rem;
+  line-height: 10rem;
 }
 
 .warp ul {
