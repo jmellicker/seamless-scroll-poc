@@ -71,7 +71,7 @@ export default {
   computed: {
     classOption: function() {
       return {
-        step: 4,
+        step: 3,
         limitMoveNum: 2,
         hoverStop: false
       };
